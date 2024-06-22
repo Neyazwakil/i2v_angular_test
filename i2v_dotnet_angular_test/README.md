@@ -38,8 +38,9 @@ If you are unable to set up the angular application, you can use the tools like 
 5. The hash value for the name should be displayed below the button. Copy the hash value.
 
 ### Paste the hash value Here in the readme file: 
-___
-
+1. The Hash for `archit` is `92a1b1799146e7ebe480694175806e3a01755a84d9f316b807d7d9c6280fe6b8`
+2. The Hash for `john` is `96d9632f363564cc3032521409cf22a852f2032eec099ed5967c0d000cec607a`
+3. The Hash for `neyaz` is `53a430fb10bf0e4debdf15a422a3a58a73c76de0be0d300197fb90cdc0881c84`
 ## Troubleshooting
 
 If you run into issues while setting up the solution, try the following:
@@ -47,4 +48,3 @@ If you run into issues while setting up the solution, try the following:
 - Make sure you have the latest versions of .Net 5 SDK, Node.js, and npm installed, appropriate Angular version.
 - Check that the API is running and accessible at `http://localhost:5000/`
 - If you get a CORS error, make sure that the correct origins are allowed in the API
-
