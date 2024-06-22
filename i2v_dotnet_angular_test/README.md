@@ -38,9 +38,9 @@ If you are unable to set up the angular application, you can use the tools like 
 5. The hash value for the name should be displayed below the button. Copy the hash value.
 
 ### Paste the hash value Here in the readme file: 
-1. The Hash for `archit` is `92a1b1799146e7ebe480694175806e3a01755a84d9f316b807d7d9c6280fe6b8`
-2. The Hash for `john` is `96d9632f363564cc3032521409cf22a852f2032eec099ed5967c0d000cec607a`
-3. The Hash for `neyaz` is `53a430fb10bf0e4debdf15a422a3a58a73c76de0be0d300197fb90cdc0881c84`
+1. The Hash for `archit` is `92A1B1799146E7EBE480694175806E3A01755A84D9F316B807D7D9C6280FE6B8`
+2. The Hash for `john` is `96D9632F363564CC3032521409CF22A852F2032EEC099ED5967C0D000CEC607A`
+3. The Hash for `neyaz` is `53A430FB10BF0E4DEBDF15A422A3A58A73C76DE0BE0D300197FB90CDC0881C84`
 ## Troubleshooting
 
 If you run into issues while setting up the solution, try the following:
